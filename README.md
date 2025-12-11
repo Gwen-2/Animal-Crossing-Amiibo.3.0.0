@@ -2,6 +2,10 @@
 
 Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only.
 
+## Souce for Amiibo Unlock What in Animal Crossing: New Horizons Version 3.0:
+
+https://animalcrossingworld.com/2025/11/which-splatoon-zelda-amiibo-unlock-what-in-animal-crossing-new-horizons-version-3-0/
+
 ## Disclaimer
 
 This repo is for educational purposes only, clone at your own risk. I do not own any of the Amiibo contents posted, nor am I encouraging any behavior. All rights go to Nintendo.
